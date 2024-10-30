@@ -1,0 +1,1802 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BeFit</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="be-fit">
+                <span class="be">Be</span>
+                <span class="fit">F<span class="highlight">i</span>t</span>
+        </div>
+                    
+        <div class="hero">
+            <h1>Get your ultimate training plan from 1300+ workouts</h1>
+            <p>Find the perfect workout for your lifestyle. Explore a variety of workouts tailored to your needs.</p>
+            <button>Explore</button>
+        </div>
+    </header>
+
+<!--------------------- section------------------- -->
+
+    <div class="section">
+        <div class="cont">
+            <h2 class="a">Discover Workouts by Muscle Group</h2>
+            <div class="box">
+                <img src="Group 2.png" alt="" class="image1">
+                <img src="Group 3.png" alt="" class="image2">
+            </div>
+        </div>
+
+        <div class="body">
+            <div class="box3">
+                <img src="box3.png" alt="" class="abd">
+                    <p>Workouts for</p>
+                    <div class="c">
+                        <h2>Abdominals</h2>
+                        <img src="right-arrow-icon.png" alt="" class="arr">
+                </div>
+            </div>
+
+            <div class="box5">
+                <img src="box5.png" alt="" class="bic">
+                <p>Workouts for</p>
+                <div class="c">
+                    <h2>Biceps</h2>
+                    <img src="Group 3.png" alt="" class="arr">
+                </div>
+            </div>
+
+            <div class="box7">
+                <img src="box7.png" alt="" class="chest">
+                <p>Workouts for</p>
+                <div class="c">
+                    <h2>Chest</h2>
+                    <img src="Group 3.png" alt="" class="arr">
+                </div>
+            </div>
+        </div>
+
+<!-- ----------------------------------------------------------- -->
+        <div class="content">
+
+            <div class="box9">
+                <img src="whole.png" alt="" class="head">
+            </div>
+
+            <div class="content1">
+                <h2 class="b">Gear up for the perfect workout</h2>
+                    <ul>
+                        <li>Reach your fitness potential with the right gear</li>
+                        <li>Maximize your training with targeted exercises</li>
+                        <li>Find the perfect exercises for every piece of equipment</li>
+                    </ul>
+                <button>Explore workout by equipment</button>
+            </div>
+        </div>
+
+<!-- -------------------------------------------------------- -->
+        <div class="foot">
+            <div class="see">
+                <h2 class="c">Every exercise with detailed steps</h2>
+                <button>See More</button>
+            </div>
+            <div class="box12">
+                <div class="box13">
+                    <img src="image 1.png" alt="" >
+                    <div class="image1">
+                        <div class="sit">
+                            <img src="tabler_yoga.png" alt="">
+                            <p>3/4 Sit-up</p>
+                        </div>
+                        <div class="bodyweight">
+                            <img src="uil_dumbbell.png" alt="">
+                            <p>Body weight</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box14">
+                    <img src="image 2.png" alt="">
+                    <div class="image2">
+                        <div class="sit">
+                            <img src="tabler_yoga.png" alt="">
+                            <p>Hanging bent</p>
+                        </div>
+                        <div class="bodyweight">
+                            <img src="uil_dumbbell.png" alt="">
+                            <p>Body weight</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box15">
+                    <img src="image 3.png" alt="">
+                    <div class="image3">
+                        <div class="sit">
+                            <img src="tabler_yoga.png" alt="">
+                            <p>Barbell squat</p>
+                        </div>
+                        <div class="bodyweight">
+                            <img src="uil_dumbbell.png" alt="">
+                            <p>Body weight</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box16">
+                    <img src="image 1 (1).png" alt="">
+                    <div class="image11">
+                        <div class="sit">
+                            <img src="tabler_yoga.png" alt="">
+                            <p>3/4 Sit-up</p>
+                        </div>
+                        <div class="bodyweight">
+                            <img src="uil_dumbbell.png" alt="">
+                            <p>Body weight</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box17">
+                    <img src="image 2 (1).png" alt="">
+                    <div class="image22">
+                        <div class="sit">
+                            <img src="tabler_yoga.png" alt="">
+                            <p>Hanging bent</p>
+                        </div>
+                        <div class="bodyweight">
+                            <img src="uil_dumbbell.png" alt="">
+                            <p>Body weight</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box18">
+                    <img src="image 3 (1).png" alt="">
+                    <div class="image33">
+                        <div class="sit">
+                            <img src="tabler_yoga.png" alt="">
+                            <p>Barbell squat</p>
+                        </div>
+                        <div class="bodyweight">
+                            <img src="uil_dumbbell.png" alt="">
+                            <p>Body weight</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+         </div>
+
+        <div class="footer">
+            <div class="bb1"><img src="fluent_ios-arrow-24-filled.png" alt="" class="f"></div>
+                <div class="bb2"><p>1</p></div>
+                <div class="bb3"><p>2</p></div>
+                <div class="bb4"><p>3</p></div>
+                <div class="bb5"><p>4</p></div>
+                <div class="bb6"><p>5</p></div>
+                <div class="bb7"><p>......</p></div>
+                <div class="bb8"><p>78</p></div>
+                <div class="bb9"><img src="fluent_ios-arrow-24-filled (1).png" alt="" class="f1"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- footer ----------------------------------------->
+    <div class="end">
+        <div class="com">
+            <div class="site">
+                <h2>Sitemap</h2>
+                <p>About</p>
+                <p>Promos</p>
+                <p>Blogs</p>
+                <p>Help</p>
+            </div>
+            <div class="sup">
+                <h2>Support</h2>
+                <p>FAQ</p>
+                <p>Help Center</p>
+            </div>
+            <div class="soc">
+                <h2>Socials</h2>
+                <img src="x.png" alt="" class="x">
+                <img src="fb.png" alt="" class="fb">
+                <img src="insta.png" alt="" class="insta">
+            </div>
+        </div>
+    </div>
+
+
+        <!-- ------------------------- -->
+
+    <!-- <div class="navigation">
+        <button onclick="window.location.href='index2.html'"> > </button>
+        <div class="page-indicator">1/1</div>
+    </div> -->
+
+    <!-- --------------------------------- -->
+
+     <div class="pagination">
+        <a href="index.html" class="arrow">&#10094;</a>
+        <span class="page-info">1/2</span>
+        <a href="index2.html" class="arrow">&#10095;</a>
+    </div>
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web page 2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+     <!-- ---desktop2 -->
+    
+     <div class="desktop2">
+        <div class="desk">
+            <div class="box1">
+                <img src="ep_back.png" alt="">
+                <h3>Back to List</h3>
+            </div>
+
+            <p>3/4 Sit-ups</p>
+
+            <div class="box2">
+                <img src="image 1d2.png" alt="">
+            </div>
+
+            <div class="box45">
+                <div class="box4">
+                    <p>Abdominals</p>
+                </div>
+
+                <div class="box5">
+                    <p>Body weight</p>
+                </div>
+            </div>
+          
+            <h2>Videos</h2>
+
+            <div class="ifim">
+                <iframe src="https://www.youtube.com/embed/wIynl3at0Rs?si=mwEelfiJ2rEoE4Pa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                
+                <img src="Group 43.png" alt="" class="ra">
+            </div>
+        </div>
+
+        <div class="inst">
+            <h2>Instructions</h2>
+            <ol>
+                <li>Lie down on the floor and secure your feet. Your legs should be bent at the knees.</li>
+                <li>Place your hands behind or to the side of your head. You will begin with your back on the ground. This will be your starting position.</li>
+                <li>Flex your hips and spine to raise your torso toward your knees.</li>
+                <li>At the top of the contraction your torso should be perpendicular to the ground. Reverse the motion, going only Â¾ of the way down.</li>
+                <li>Repeat for the recommended amount of repetitions.</li>
+            </ol>
+            <h3>Alternative workouts for 3/4 sit-up</h3>
+            <div class="grid">
+                <div class="box5"><img src="image 4.png" alt=""></div>
+                <div class="box6"><img src="image 5.png" alt=""></div>
+                <div class="box7"><img src="image 6.png" alt=""></div>
+                <div class="box8"><img src="image 5.png" alt=""></div>
+            </div>
+        </div>
+    </div>
+<!-- --------------------------------- -->
+    <!-- <div class="navigation">
+        <button onclick="window.location.href='index.html'"> < </button>
+        <div class="page-indicator">2/2</div>
+    </div> -->
+<!-- -------------------------------- -->
+<div class="pagination">
+    <a href="index.html" class="arrow">&#10094;</a>
+    <span class="page-info">2/2</span>
+    <a href="index2.html" class="arrow">&#10095;</a>
+</div>
+
+
+
+
+<!-- ----------------------------------------- -->
+</body>
+</html>
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    width: 100%;
+    height: auto;
+    background-color: #080101;
+
+}
+
+header{
+    background-color:linear-gradient(90deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0) 100%);
+    width: 100%;
+    height: 100vh;
+    background-image:  url(head.jpeg);
+    background-image: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.99;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.be-fit {
+    font-family:"Libre Baskerville", serif;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 64px;
+    color: #FFFFFF;
+    letter-spacing: -0.1em;
+    width: 50%;
+    height: 20%;
+    padding-top: 20px;
+    padding-left: 50px; 
+   
+}
+
+.be {
+    display: block;
+}
+
+.fit {
+    display: block;
+}
+.highlight {
+    color: blue;
+}
+
+
+.hero{
+    width: 80%;
+    height: 70%;
+    color: #FFFFFF;
+    align-self: flex-start;
+    padding-left: 50px;
+    display: inline-block;
+}
+
+.hero h1{
+    font-family:"poppins";
+    font-weight: 500;
+    font-size:70px;
+    line-height: 89.6px;
+}
+
+.hero p{
+    font-family:"poppins";
+    font-weight: 300;
+    font-size:24px;
+    line-height: 33.6px;
+    padding-top: 20px;
+    padding: 10px;
+    padding-bottom: 30px;
+}
+
+.hero button{
+    border-radius:8px;
+    width: 50%;
+    height: auto;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    background-color:#1677FF;
+    color: #FFFFFF;
+    padding-top: 5px;
+}
+
+/* section---------------------------------------------------------- */
+
+.section{
+    background-color:rgba(23, 23, 23, 1);
+    width: 100%;
+    height: 100%;
+    border-radius: 48px 48px 10px 10px;
+    overflow: hidden;
+}
+
+.section .cont{
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.section h2{
+    color: #FFFFFF;
+    width: 40%;
+    height: auto;
+}
+
+.section .cont .a{
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 54px;
+    padding-top: 50px;
+}
+
+.section .box {
+    display: flex;
+    justify-content: center;
+}
+
+
+.section .box .image1{
+    padding: 10px;
+}
+
+.section .box .image2{
+    padding: 10px;
+}
+
+
+.section .body{
+    width: 100%;
+    height: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 30px;
+}
+
+.section .body .box3{
+    background: linear-gradient(239.86deg, #1677FF 0%, #002E6F 100%);
+    width: 30%;
+    height: 80%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    display: inline-block;
+}
+
+.section .body .box3 .abd{
+    padding: 20px;
+    padding-left: 30px;
+}
+
+ .section .body .box3 p{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-left: 20px;
+}
+
+.section .body .box3 .c{
+    display: flex;
+    justify-content:space-around ;
+    padding-bottom:10px ;
+}
+
+.section .body .box3 h2{
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 50px;
+    padding-top: 2px;
+} 
+
+.section .body .box3 .arr{
+    width: 10%;
+    height: 8%;
+    padding-top: 10px;
+}
+.section .body .box5{
+    background: rgba(40, 40, 40, 1);
+    width: 30%;
+    height: 80%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    display: inline-block;
+}
+
+.section .body .box5 .bic{
+    padding: 20px;
+    padding-left: 30px;
+
+}
+.section .body .box5 p{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-left: 20px;
+}
+
+.section .body .box5 .c{
+    display: flex;
+    justify-content:space-around ;
+    padding-bottom:10px ;
+}
+
+.section .body .box5 h2{
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 50px;
+    padding-top: 2px;
+}
+
+.section .body .box5 .arr{
+    width: 10%;
+    height: 8%;
+    padding-top: 10px;
+}
+
+.section .body .box7{
+    background: rgba(40, 40, 40, 1);
+    width: 30%;
+    height: 80%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    display: inline-block;
+}
+
+.section .body .box7 .chest{
+    padding: 20px;
+    padding-left: 30px;
+}
+
+.section .body .box7 p{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-left: 20px;
+}
+
+.section .body .box7 .c{
+    display: flex;
+    justify-content:space-around ;
+    padding-bottom:10px ;
+}
+
+.section .body .box7 h2{
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 50px;
+    margin-left: 50px;
+}
+
+.section .body .box7 .arr{
+    width: 10%;
+    height: 8%;
+    padding-top: 10px;
+
+}
+
+/* ---------------------------------------------------- */
+
+.section .content{
+    color: #FFFFFF;
+    background-color:rgba(14, 14, 14, 1);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.section .content .box9 {
+    width: 50%;
+    height: 100%;
+    background-color: rgba(14, 14, 14, 1);
+    padding: 20px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section .content .box9 .head{
+    width: 100%;
+    height: 100%;
+
+}
+
+.section .content .content1{
+    width:50% ;
+    height: 100%;
+    background-color:rgba(14, 14, 14, 1);
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-left: 50px;
+    padding-top: 40px;
+}
+
+.section .content .content1 .b{
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 50px;
+    padding-bottom: 40px;
+}
+
+.section .content .content1 ul {
+    list-style-type: none;
+    font-size: 18px;
+    gap: 50px;
+}
+
+.section .content .content1 ul li {
+    position: relative;
+    line-height: 30px;
+    font-size: 20px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+
+ .section .content .content1 ul li::before {
+    content: "✔"; 
+    position: absolute;
+    top: 20%; 
+    left: 10px;
+    transform: translateY(-50%);
+    width: 7%;
+    background-color: #1677FF;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+} 
+
+.section .content .content1 button{
+    background:rgba(22, 119, 255, 1);
+    width: 50%;
+    height: auto;
+    border-radius:8px;
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 400;
+    padding: 10px;
+}
+
+/* ---------------------------------------------------- */
+
+.section .foot{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.section .foot .see{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    padding-right: 20px;
+}
+
+.section .foot .see .c{
+    width: 100%;
+    height: 50%;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 54px;
+    padding-left: 50px;
+    padding: 30px;
+}
+
+.section .foot .see button{
+    width: 30%;
+    height: 50%;
+    border-radius: 8px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    padding-top: 6px;
+}
+
+          /* 1--------------------------------------------- */
+
+.section .foot .box12{
+    width: 100%;
+    height: 70%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 10px;
+    padding: 50px 10px 50px 20px;
+}
+
+.section .foot .box13,.box14,.box15,.box16,.box17,.box18{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(238, 231, 231);
+    border-radius: 15px;
+    align-items: center;
+}
+
+.section .foot .box13,.box14,.box15,.box16,.box17,.box18 {
+    width: 100%;
+    height: 80%;
+    display: flex;
+    position: relative;
+}
+.section .foot .box13 img,
+.section .foot .box14 img,
+.section .foot .box15 img,
+.section .foot .box16 img,
+.section .foot .box17 img,
+.section .foot .box18 img {
+  width: 100%;
+  height: 100%;
+}
+
+
+.section .foot .box13 .image1{
+    width: 100%;
+    position: absolute;
+    display: flex;
+    top: 80%;
+    justify-content: flex-start;
+    justify-content: flex-end;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+
+.section .foot .box12 .box13 .sit{
+    width: 40%;
+    height: 100%;
+    background-color: #1677FF;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.section .foot .box12 .box13 .sit img{
+    width: 15%;
+    height: 30%;
+}
+
+.section .foot .box12 .box13 .sit p{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.section .foot .box12 .box13 .bodyweight{
+    width: 40%;
+    height: 100%;
+    background-color: #1677FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+
+}
+
+.section .foot .box12 .box13 .bodyweight img{
+    width: 15%;
+    height: 30%;
+}
+
+.section .foot .box12 .box13 .bodyweight p{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.section .foot .box14 .image2{
+    width: 100%;
+    position: absolute;
+    display: flex;
+    top: 80%;
+    justify-content: flex-start;
+    justify-content: flex-end;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+
+.section .foot .box12 .box14 .sit{
+    width: 40%;
+    height: 100%;
+    background-color: #1677FF;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.section .foot .box12 .box14 .sit img{
+    width: 15%;
+    height: 30%;
+}
+
+.section .foot .box12 .box14 .sit p{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.section .foot .box12 .box14 .bodyweight{
+    width: 40%;
+    height: 100%;
+    background-color: #1677FF;
+    display: flex;
+    border-radius: 20px;
+    justify-content:center;
+    align-items: center;
+}
+
+.section .foot .box12 .box14 .bodyweight img{
+    width: 15%;
+    height: 30%;
+
+}
+
+.section .foot .box12 .box14 .bodyweight p{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.section .foot .box15 .image3{
+    width: 100%;
+    position: absolute;
+    display: flex;
+    top: 80%;
+    /* background-color: #080101; */
+    justify-content: flex-start;
+    justify-content: flex-end;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+
+.section .foot .box12 .box15 .sit{
+    width: 40%;
+    height: 100%;
+    background-color: #1677FF;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.section .foot .box12 .box15 .sit img{
+    width: 15%;
+    height: 30%;
+}
+
+.section .foot .box12 .box15 .sit p{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.section .foot .box12 .box15 .bodyweight{
+    width: 40%;
+    height: 100%;
+    background-color: #1677FF;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.section .foot .box12 .box15 .bodyweight img{
+    width: 15%;
+    height: 30%;
+
+}
+
+.section .foot .box12 .box15 .bodyweight p{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.section .foot .box16 .image11{
+    width: 100%;
+    position: absolute;
+    display: flex;
+    top: 80%;
+    /* background-color: #080101; */
+    justify-content: flex-start;
+    justify-content: flex-end;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+
+.section .foot .box12 .box16 .sit{
+    width: 40%;
+    height: 100%;
+    background-color: #1677FF;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.section .foot .box12 .box16 .sit img{
+    width: 15%;
+    height: 30%;
+
+}
+
+.section .foot .box12 .box16 .sit p{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.section .foot .box12 .box16 .bodyweight{
+    width: 40%;
+    height: 100%;
+    background-color: #1677FF;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.section .foot .box12 .box16 .bodyweight img{
+    width: 15%;
+    height: 30%;
+
+}
+
+.section .foot .box12 .box16 .bodyweight p{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.section .foot .box17 .image22{
+    width: 100%;
+    position: absolute;
+    display: flex;
+    top: 80%;
+    /* background-color: #080101; */
+    justify-content: flex-start;
+    justify-content: flex-end;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+
+.section .foot .box12 .box17 .sit{
+    width: 40%;
+    height: 100%;
+    background-color: #1677FF;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.section .foot .box12 .box17 .sit img{
+    width: 15%;
+    height: 30%;
+}
+
+.section .foot .box12 .box17 .sit p{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.section .foot .box12 .box17 .bodyweight{
+    width: 40%;
+    height: 100%;
+    background-color: #1677FF;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.section .foot .box12 .box17 .bodyweight img{
+    width: 15%;
+    height: 30%;
+
+}
+
+.section .foot .box12 .box17 .bodyweight p{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.section .foot .box18 .image33{
+    width: 100%;
+    position: absolute;
+    display: flex;
+    top: 80%;
+    /* background-color: #080101; */
+    justify-content: flex-start;
+    justify-content: flex-end;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+
+.section .foot .box12 .box18 .sit{
+    width: 40%;
+    height: 100%;
+    background-color: #1677FF;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.section .foot .box12 .box18 .sit img{
+    width: 15%;
+    height: 30%;
+}
+
+.section .foot .box12 .box18 .sit p{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.section .foot .box12 .box18 .bodyweight{
+    width: 40%;
+    height: 100%;
+    background-color: #1677FF;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.section .foot .box12 .box18 .bodyweight img{
+    width: 15%;
+    height: 30%;
+
+}
+
+.section .foot .box12 .box18 .bodyweight p{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.section .footer{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.section .footer .bb1,.bb2,.bb3,.bb4,.bb5,.bb6,.bb7,.bb8,.bb8,.bb9{
+    width: 10%;
+    height: 10%;
+    background-color:rgba(40, 40, 40, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:rgba(83, 83, 83, 1);
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.13px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.section .footer .bb2{
+    border:2px solid blue;
+    color: blue;
+}
+
+
+
+/* end--------------------------------------------------------- */
+
+.end{
+    width: 100%;
+    height: 100vh;
+    background-color:rgba(14, 14, 14, 1);
+    /* background-color: chartreuse; */
+}
+
+.end .com{
+    width: 100%;
+    height: 100vh;
+    margin-left: 100px;
+    display: flex;
+}
+
+.end .com  .site{
+    /* background-color: brown; */
+    width: 30%;
+    height: 70%;
+    gap: 10px;
+    padding-top: 10px;
+    padding-left: 2px;
+    display: flex;
+    flex-direction: column;
+    color: #FFFFFF;
+}
+
+.end .com  .site h2{
+    padding-top: 10px;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 40px;
+}
+
+.end .com .site p{
+    padding-left: 14px;
+    font-family: Poppins;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 40px;
+}
+
+.end .com .sup{
+    /* background-color: aqua; */
+    width: 30%;
+    height: 70%;
+    gap: 10px;
+    padding-top: 10px;
+    padding-left: 0px;
+    display: flex;
+    flex-direction: column;
+    color: #FFFFFF;
+}
+
+.end .com  .sup h2{
+    padding-top: 10px;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 40px;
+}
+
+.end .com .sup p{
+    padding-left: 14px;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 40px;
+}
+
+
+.end .com .soc{
+    width: 30%;
+    height: 70%;
+    gap: 10px;
+    padding-top: 10px;
+    padding-left: 0px;
+    color: #FFFFFF;
+}
+
+.end .com  .soc h2{
+    padding-top: 10px;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 40px;
+}
+
+.end .com .soc img{
+    padding: 10px;
+}
+
+
+
+
+
+
+/* 11111111111111111111111111111111111111111111111111111111111111111 */
+
+
+
+
+.desktop2 {
+    width: 100%;
+    height: 100%;
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.desktop2 .desk{
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(100% 100% at 100% 0%, #1677FF 0%, #002E6F 100%);
+    padding: 15px;
+    overflow: hidden;
+}
+
+
+.desktop2 .desk .box1{
+    width: 30%;
+    height: 10%;
+    display: flex;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-left: 30px;
+}
+
+.desktop2 .desk .box1 img{
+    width: 20%;
+    height: 35%;
+}
+
+.desktop2 .desk .box1 h3{
+    padding: 5px;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.desktop2 .desk p{
+    padding-top: 30px;
+    padding-left: 40px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+}
+
+.desktop2 .desk .box2{
+    padding-top: 30px;
+    padding-left: 40px;
+}
+
+
+.desktop2 .desk .box45{
+    width: 100%;
+    height: 30%;
+    padding-left: 50px;
+    display: flex;
+    justify-content:flex-start;
+    gap: 50px;
+    align-items: center;
+}
+
+.desktop2 .desk .box4{
+    background-color: white;
+    border-radius: 20px;
+    padding-bottom: 25px;
+    padding-right: 40px;
+}
+
+.desktop2 .desk .box4 p{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    color: rgba(0, 46, 111, 1);
+}
+
+.desktop2 .desk .box5{
+    background-color:white;
+    border-radius: 30px;
+    padding-bottom: 25px;
+    padding-right: 20px;}
+
+.desktop2 .desk .box5 p{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    color: rgba(0, 46, 111, 1);
+}
+
+.desktop2 .desk h2{
+    padding-left: 30px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 36px;
+    padding-bottom: 20px;
+}
+
+.desktop2 .desk .ifim{
+    padding-left: 50px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 10px;
+}
+
+.desktop2 .desk iframe{
+    width: 100%;
+    height: 100%;
+}
+
+.desktop2 .desk .ra{
+    width: 100%;
+    height: 100%;
+} 
+  
+/* 1111111111111111111111111111111111111111111111111111 */
+
+.desktop2 .inst{
+    width: 100%;
+    height: 100%;
+    color: #080101;
+    color: #FFFFFF;
+    overflow: hidden;
+}
+
+.desktop2 .inst h2{
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 36px;
+    padding-left: 30px;
+}
+
+.desktop2 .inst ol{
+    list-style-type: none;
+    counter-reset: item;
+    padding-left: 100px;
+}
+
+.desktop2 .inst ol li{
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 45px;
+    position: relative;
+    counter-increment: item;
+
+}
+
+.desktop2 .inst ol li::before {
+    content: counters(item, ".");
+    background-color:rgba(41, 41, 41, 1);
+    color:rgba(83, 83, 83, 1);
+    border-radius: 50%; 
+    width: 32px; 
+    height: 32px; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    position: absolute; 
+    left: -60px; 
+    top: 50%; 
+    transform: translateY(-50%);
+}
+
+
+.desktop2 .inst h3{
+    padding-top: 30px;
+    padding-left: 30px;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 36px;
+}
+
+
+.desktop2 .inst .grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+/* ---------------------------------------- */
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.arrow {
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s;
+}
+
+.arrow:hover {
+    background-color: #0056b3;
+}
+
+.page-info {
+    margin: 0 15px;
+    font-size: 18px;
+}
+
+
+/* Large screens (Desktops) */
+@media (min-width: 1200px) {
+    .hero {
+        width: 60%;
+    }
+
+    .hero h1 {
+        font-size: 70px;
+    }
+
+    .hero p {
+        font-size: 24px;
+    }
+
+    .hero button {
+        font-size: 40px;
+        width: 30%;
+    }
+}
+
+/* Medium screens (Tablets) */
+@media (max-width: 1199px) and (min-width: 768px) {
+    .be-fit {
+        font-size: 48px;
+        padding-left: 30px;
+    }
+
+    .hero {
+        width: 70%;
+        padding-left: 30px;
+    }
+
+    .hero h1 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    .hero p {
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    .hero button {
+        font-size: 32px;
+        width: 60%;
+    }
+}
+
+/* Small screens (Mobile) */
+@media (max-width: 767px) {
+    .be-fit {
+        font-size: 32px;
+        padding-left: 20px;
+        width: 80%;
+    }
+
+    .hero {
+        width: 100%;
+        padding-left: 20px;
+    }
+
+    .hero h1 {
+        font-size: 36px;
+        line-height: 48px;
+    }
+
+    .hero p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .hero button {
+        font-size: 24px;
+        width: 80%;
+    }
+}
+
+/* Media queries for responsive design */
+
+/* For small devices (phones) */
+@media (max-width: 600px) {
+    .be-fit {
+        font-size: 40px; /* Adjust font size */
+        line-height: 48px; /* Adjust line height */
+    }
+
+    .hero h1 {
+        font-size: 40px; /* Adjust font size */
+        line-height: 48px; /* Adjust line height */
+    }
+
+    .hero p {
+        font-size: 18px; /* Adjust font size */
+        line-height: 26px; /* Adjust line height */
+    }
+
+    .section .cont {
+        flex-direction: column; /* Stack content vertically */
+        height: auto; /* Adjust height */
+    }
+
+    .section .body .box3,
+    .section .body .box5,
+    .section .body .box7 {
+        width: 90%; /* Full width */
+        margin: 10px 0; /* Add margin for spacing */
+    }
+
+    .section .content .content1 {
+        padding-left: 20px; /* Adjust padding */
+        padding-top: 20px; /* Adjust padding */
+    }
+
+    .section .footer .bb1, 
+    .section .footer .bb2,
+    .section .footer .bb3,
+    .section .footer .bb4,
+    .section .footer .bb5,
+    .section .footer .bb6,
+    .section .footer .bb7,
+    .section .footer .bb8,
+    .section .footer .bb9 {
+        width: 20%; /* Increase width for better visibility */
+    }
+}
+
+/* For medium devices (tablets) */
+@media (min-width: 601px) and (max-width: 1024px) {
+    .be-fit {
+        font-size: 50px; /* Adjust font size */
+        line-height: 58px; /* Adjust line height */
+    }
+
+    .hero h1 {
+        font-size: 50px; /* Adjust font size */
+        line-height: 68px; /* Adjust line height */
+    }
+
+    .hero p {
+        font-size: 20px; /* Adjust font size */
+        line-height: 28px; /* Adjust line height */
+    }
+
+    .section .cont {
+        flex-direction: row; /* Maintain row layout */
+        height: auto; /* Adjust height */
+    }
+
+    .section .body .box3,
+    .section .body .box5,
+    .section .body .box7 {
+        width: 40%; /* Adjust width */
+        margin: 20px; /* Add margin for spacing */
+    }
+
+    .section .footer .bb1, 
+    .section .footer .bb2,
+    .section .footer .bb3,
+    .section .footer .bb4,
+    .section .footer .bb5,
+    .section .footer .bb6,
+    .section .footer .bb7,
+    .section .footer .bb8,
+    .section .footer .bb9 {
+        width: 15%; /* Adjust width */
+    }
+}
+
+/* For large devices (desktops) */
+@media (min-width: 1025px) {
+    .be-fit {
+        font-size: 64px; /* Original font size */
+        line-height: 64px; /* Original line height */
+    }
+
+    .hero h1 {
+        font-size: 70px; /* Original font size */
+        line-height: 89.6px; /* Original line height */
+    }
+
+    .hero p {
+        font-size: 24px; /* Original font size */
+        line-height: 33.6px; /* Original line height */
+    }
+
+    .section .body .box3,
+    .section .body .box5,
+    .section .body .box7 {
+        width: 30%; /* Original width */
+        margin: 0; /* Reset margin */
+    }
+
+    .section .footer .bb1, 
+    .section .footer .bb2,
+    .section .footer .bb3,
+    .section .footer .bb4,
+    .section .footer .bb5,
+    .section .footer .bb6,
+    .section .footer .bb7,
+    .section .footer .bb8,
+    .section .footer .bb9 {
+        width: 10%; /* Original width */
+    }
+}
+
+/* Media queries */
+@media (max-width: 1200px) {
+    .end .com {
+        margin-left: 50px; /* Less margin on smaller screens */
+    }
+}
+
+@media (max-width: 992px) {
+    .end .com {
+        flex-direction: column; /* Stack the sections vertically */
+        align-items: center; /* Center the items */
+    }
+
+    .end .com .site,
+    .end .com .sup,
+    .end .com .soc {
+        width: 80%; /* Make each section wider */
+        height: auto; /* Allow height to adjust */
+        margin-bottom: 20px; /* Add space between sections */
+    }
+}
+
+@media (max-width: 768px) {
+    .end .com .site h2,
+    .end .com .sup h2,
+    .end .com .soc h2 {
+        font-size: 24px; /* Reduce header font size */
+    }
+
+    .end .com .site p,
+    .end .com .sup p {
+        font-size: 20px; /* Reduce paragraph font size */
+    }
+}
+
+@media (max-width: 576px) {
+    .end {
+        height: auto; /* Allow height to adjust based on content */
+    }
+
+    .end .com {
+        padding: 10px; /* Add padding around the flex container */
+    }
+
+    .end .com .site,
+    .end .com .sup,
+    .end .com .soc {
+        width: 100%; /* Make sections full width */
+        height: auto; /* Allow height to adjust */
+    }
+
+    .end .com .site p,
+    .end .com .sup p {
+        font-size: 18px; /* Further reduce paragraph font size */
+    }
+}
+
+
+/*Medium screens (tablets, 768px and up) */
+@media (max-width: 992px) {
+    .desktop2 .desk .box1 {
+        width: 50%;
+        height: auto;
+        padding-left: 20px;
+    }
+
+    .desktop2 .desk p, .desktop2 .desk h2 {
+        font-size: 20px;
+        padding-left: 20px;
+    }
+
+    .desktop2 .desk .box45 {
+        flex-direction: column;
+        gap: 20px;
+        padding-left: 20px;
+    }
+
+    .desktop2 .desk .ifim {
+        flex-direction: column;
+        gap: 20px;
+        padding-left: 20px;
+    }
+}
+
+/* Small screens (mobile, 576px and up) */
+@media (max-width: 768px) {
+    .desktop2 {
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    .desktop2 .desk {
+        padding: 10px;
+    }
+
+    .desktop2 .desk .box1 {
+        width: 100%;
+        padding-left: 10px;
+    }
+
+    .desktop2 .desk .box45, 
+    .desktop2 .desk .ifim {
+        flex-direction: column;
+        padding-left: 10px;
+    }
+
+    .desktop2 .inst ol {
+        padding-left: 70px;
+    }
+
+    .desktop2 .inst ol li {
+        font-size: 24px;
+    }
+
+    .desktop2 .inst .grid {
+        grid-template-columns: 1fr 1fr;
+        padding-left: 10px;
+    }
+
+    .pagination .arrow, .pagination .page-info {
+        font-size: 16px;
+        padding: 5px 10px;
+    }
+}
+
+/* Extra small screens (mobile, 480px and up) */
+@media (max-width: 576px) {
+    .desktop2 .desk h2, .desktop2 .inst h2, .desktop2 .inst h3 {
+        font-size: 24px;
+    }
+
+    .desktop2 .desk p {
+        font-size: 18px;
+        padding-left: 10px;
+    }
+
+    .desktop2 .inst ol li::before {
+        width: 24px;
+        height: 24px;
+        left: -40px;
+    }
+
+    .desktop2 .inst .grid {
+        grid-template-columns: 1fr;
+        padding-left: 5px;
+    }
+}
+
+
+
